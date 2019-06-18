@@ -5,10 +5,8 @@ d.screen_off()
 d.screen_on()
 d.swipe(0.474, 0.841,0.474, 0.363)
 
-d.click(0.212, 0.534)
-d.click(0.762, 0.723)
-d.click(0.763, 0.628)
-d.click(0.225, 0.729)
+#d.click(锁屏密码)
+
 time.sleep(0.5)
 d.press("home")
 d.press("home")
